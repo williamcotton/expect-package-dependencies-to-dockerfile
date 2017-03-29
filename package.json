@@ -1,0 +1,30 @@
+{
+  "name": "expect-package-dependencies-to-dockerfile",
+  "version": "1.0.0",
+  "description": "Expect package dependencies to Dockerfile",
+  "main": "src/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/williamcotton/expect-package-dependencies-to-dockerfile.git"
+  },
+  "keywords": [
+    "expect",
+    "package",
+    "dependencies",
+    "docker",
+    "dockerfile",
+    "generate"
+  ],
+  "author": "William Cotton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/williamcotton/expect-package-dependencies-to-dockerfile/issues"
+  },
+  "homepage": "https://github.com/williamcotton/expect-package-dependencies-to-dockerfile#readme"
+}
